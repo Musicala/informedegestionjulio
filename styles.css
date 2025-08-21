@@ -319,47 +319,6 @@ footer {
   font-size: 1rem;
 }
 
-.tabla-autorizacion,
-.control-cambios {
-  max-width: 1400px;
-  margin: 2rem auto;
-  padding: 2rem;
-  background-color: #fff;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
-}
-
-.tabla-autorizacion h3,
-.control-cambios h3 {
-  font-size: 1rem;
-  margin-bottom: 1rem;
-  color: #222;
-  border-bottom: 2px solid #ccc;
-  padding-bottom: 0.5rem;
-}
-
-.tabla-autorizacion table,
-.control-cambios table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 1rem;
-}
-
-.tabla-autorizacion th,
-.tabla-autorizacion td,
-.control-cambios th,
-.control-cambios td {
-  border: 1px solid #ccc;
-  padding: 0.8rem;
-  text-align: left;
-  vertical-align: top;
-}
-
-.tabla-autorizacion thead,
-.control-cambios thead {
-  background-color: #f0f0f0;
-}
-
 .botonera {
   max-width: 900px;
   margin: 0 auto;
